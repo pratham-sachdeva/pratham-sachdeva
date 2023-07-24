@@ -1,6 +1,6 @@
 ## Welcome to My GitHub Profile!
 
-👋 Hi, I’m Pratham Sachdeva.
+👋 Hi, I’m Pratham Sachdeva, here to share my learning journey.
 
 📊 Data Analyst with a passion for exploring datasets and finding hidden patterns.
 
