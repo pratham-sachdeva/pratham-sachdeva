@@ -23,4 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgre" alt="Postgre" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Rstudio" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/color/144/power-bi.png" alt="power-bi" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="60" height="60"/>&nbsp;
+ 
 <div>
